@@ -17,7 +17,7 @@ We recommend completeing the following sections from Kaggle's [Intro to SQL](htt
 3. [Joins & Unions](https://www.kaggle.com/alexisbcook/joins-and-unions)
 4. [Analytic Functions](https://www.kaggle.com/learn/advanced-sql)
 
-If you have trouble completing the assigned sections, we recommend returning to Week 1 to do some supplemental activities, and then completing the full Kaggle [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) course.
+If you have trouble completing the assigned sections, we recommend coming back to this after doing more supplemental activities from SQL Week 1 and completing the full Kaggle [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) course.
 
 ## Supplemental Activities
 
