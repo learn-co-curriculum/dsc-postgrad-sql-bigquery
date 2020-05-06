@@ -1,4 +1,4 @@
-# Advanced SQL in BigQuery
+# Advanced SQL in Google BigQuery
 
 ## Learning Goals
 
@@ -6,7 +6,7 @@ Perform advanced SQL queries using Google BigQuery
 
 ## Overview
 
-Now that you've refreshed your SQL skills in Week 1, let's level them up and learn a new tool: Google BigQuery. This will prepare you to efficiently run queries on big data, and to do so in a production environment like you might see in your work.
+Now that you've refreshed your SQL skills in Week 1, let's level them up while learning a new tool: Google BigQuery. This will prepare you to efficiently run queries on big data, and to do so in a production environment like you might see in your work.
 
 ## Main Activity
 
