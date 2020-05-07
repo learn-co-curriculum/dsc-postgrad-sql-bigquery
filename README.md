@@ -6,7 +6,7 @@ Perform advanced SQL queries using Google BigQuery
 
 ## Overview
 
-Now that you've refreshed your SQL skills in Week 1, let's level them up while learning a new tool: Google BigQuery. This will prepare you to efficiently run queries on big data, and to do so in a production environment like you might see in your work.
+Now that you've solidified your SQL skills in Weeks 1 and 2, let's level them up while learning a new tool: Google BigQuery. This will prepare you to efficiently run queries on big data, and to do so in a production environment like you might see in your work.
 
 ## Main Activity
 
@@ -17,7 +17,7 @@ We recommend completeing the following sections from Kaggle's [Intro to SQL](htt
 3. [Joins & Unions](https://www.kaggle.com/alexisbcook/joins-and-unions)
 4. [Analytic Functions](https://www.kaggle.com/learn/advanced-sql)
 
-If you have trouble completing the assigned sections, we recommend coming back to this after doing more supplemental activities from SQL Week 1 and completing the full Kaggle [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) course.
+If you have trouble completing the assigned sections, we recommend coming back to this after doing more supplemental activities from SQL Weeks 1 and 2, and completing the full Kaggle [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) course.
 
 ## Supplemental Activities
 
