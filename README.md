@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Now that you've solidified your SQL skills in Weeks 1 and 2, let's level them up while learning a new tool: Google BigQuery. This will prepare you to efficiently run queries on big data, and to do so in a production environment like you might see in your work.
+Now that you've solidified your SQL skills, let's level them up while learning a new tool: Google BigQuery. This will prepare you to efficiently run queries on big data, and to do so in a production environment like you might see in your work.
 
 ## Objectives
 
